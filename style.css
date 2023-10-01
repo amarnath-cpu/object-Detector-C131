@@ -1,0 +1,22 @@
+body{
+    background-size: cover;
+}
+.heading{
+    font-size:23px ;
+    width:100% ;
+}
+.tv ,.bed , .bottle{
+    background-color: aliceblue;
+    color: black;
+    border-color:red ;
+    font-size:23px;
+    margin-top: 25px;
+    border-radius: 15px 30px;
+    padding-top: 23px;
+    padding-bottom: 23px;
+    width: 50%;
+}
+canvas{
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px grey;
+}
